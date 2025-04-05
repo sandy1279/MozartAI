@@ -1,0 +1,9 @@
+transformers
+torch
+audiocraft
+scipy
+bark
+pydub
+fastapi
+uvicorn
+streamlit
